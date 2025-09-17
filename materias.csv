@@ -1,0 +1,52 @@
+Cod_Materia,Asignatura,Cuatrimestre,BI,CHS,CHT
+PRIMER AÑO,,,,,
+1,Introducción a la Ingeniería,1,CO,4,60
+2,Análisis Matemático 1,1,CB,9,135
+3,Química General Aplicada,1,CB,7,105
+4,Fundamentos de Informática,1,CB,5,75
+5,Álgebra y Geometría Analítica,2,CB,9,135
+6,Física 1,2,CB,9,135
+7,Economía,2,CO,6,90
+SEGUNDO AÑO,,,,,
+8,Organización y Administración,1,TA,5,75
+9,Análisis Matemático 2,1,CB,8,120
+10,Física 2,1,CB,9,135
+11,Sistemas de Representación,1,CB,5,75
+12,Electrotecnia,2,TB,6,90
+13,Sistemas Informáticos,2,CO,5,75
+14,Probabilidad y Estadística,2,CB,6,90
+15,Estática y Resistencia de Materiales,2,TB,5,75
+TERCER AÑO,,,,,
+16,Mecánica de los Fluidos,1,TB,6,90
+17,Termodinámica,1,TB,6,90
+18,Ciencia de los Materiales,1,TB,7,105
+19,Análisis Ambiental,1,TA,5,75
+20,Comercialización,2,TA,5,75
+21,Costos Industriales,2,TA,3,45
+22,Comportamiento Organizacional,2,CO,6,90
+23,Higiene y Seguridad Industrial,2,TA,6,90
+PRIMER A TERCER AÑO,,,,,
+24,Formación Humanística y Social,2,CO,4,60
+25,Acreditación de Inglés,,,,
+CUARTO AÑO,,,,,
+26,Gestión de la Calidad,1,TA,5,75
+27,Investigación Operativa,1,TB,6,90
+28,Electrónica Básica,1,TB,6,90
+29,Mecanismos y Elementos de Máquinas,1,TB,7,105
+30,Organización Industrial,2,TA,6,90
+31,Tecnología de Fabricación,2,TB,6,90
+32,Legislación,2,CO,5,75
+33,Logística,2,TA,5,75
+QUINTO AÑO,,,,,
+34,Obtención y procesamiento de datos,1,TB,5,75
+35,Gestión del Capital Humano,1,CO,5,75
+36,Instalaciones Termomecánicas e Industriales,1,TB,6,90
+37,Lean Manufacturing - Manufactura esbelta,1,TA,5,75
+38,Evaluación de Proyectos de Inversión,2,TA,5,75
+39,Mercadotecnia,2,TA,5,75
+40,Administración de Operaciones,2,TA,5,75
+41,Práctica Profesional Supervisada,A,PS,,200
+42,Trabajo Final,A,PI,,120
+CUARTO A QUINTO AÑO,,,,,
+43,Ciclo Optativo,A,OP,,90
+HORAS Y CRÉDITOS TOTALES,,,,,3830
