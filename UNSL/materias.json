@@ -1,0 +1,410 @@
+[
+    {
+        "Cod_Materia": "PRIMER AÑO",
+        "Asignatura": "",
+        "Cuatrimestre": "",
+        "BI": "",
+        "CHS": "",
+        "CHT": ""
+    },
+    {
+        "Cod_Materia": "1",
+        "Asignatura": "Introducción a la Ingeniería",
+        "Cuatrimestre": "1",
+        "BI": "CO",
+        "CHS": "4",
+        "CHT": "60"
+    },
+    {
+        "Cod_Materia": "2",
+        "Asignatura": "Análisis Matemático 1",
+        "Cuatrimestre": "1",
+        "BI": "CB",
+        "CHS": "9",
+        "CHT": "135"
+    },
+    {
+        "Cod_Materia": "3",
+        "Asignatura": "Química General Aplicada",
+        "Cuatrimestre": "1",
+        "BI": "CB",
+        "CHS": "7",
+        "CHT": "105"
+    },
+    {
+        "Cod_Materia": "4",
+        "Asignatura": "Fundamentos de Informática",
+        "Cuatrimestre": "1",
+        "BI": "CB",
+        "CHS": "5",
+        "CHT": "75"
+    },
+    {
+        "Cod_Materia": "5",
+        "Asignatura": "Álgebra y Geometría Analítica",
+        "Cuatrimestre": "2",
+        "BI": "CB",
+        "CHS": "9",
+        "CHT": "135"
+    },
+    {
+        "Cod_Materia": "6",
+        "Asignatura": "Física 1",
+        "Cuatrimestre": "2",
+        "BI": "CB",
+        "CHS": "9",
+        "CHT": "135"
+    },
+    {
+        "Cod_Materia": "7",
+        "Asignatura": "Economía",
+        "Cuatrimestre": "2",
+        "BI": "CO",
+        "CHS": "6",
+        "CHT": "90"
+    },
+    {
+        "Cod_Materia": "SEGUNDO AÑO",
+        "Asignatura": "",
+        "Cuatrimestre": "",
+        "BI": "",
+        "CHS": "",
+        "CHT": ""
+    },
+    {
+        "Cod_Materia": "8",
+        "Asignatura": "Organización y Administración",
+        "Cuatrimestre": "1",
+        "BI": "TA",
+        "CHS": "5",
+        "CHT": "75"
+    },
+    {
+        "Cod_Materia": "9",
+        "Asignatura": "Análisis Matemático 2",
+        "Cuatrimestre": "1",
+        "BI": "CB",
+        "CHS": "8",
+        "CHT": "120"
+    },
+    {
+        "Cod_Materia": "10",
+        "Asignatura": "Física 2",
+        "Cuatrimestre": "1",
+        "BI": "CB",
+        "CHS": "9",
+        "CHT": "135"
+    },
+    {
+        "Cod_Materia": "11",
+        "Asignatura": "Sistemas de Representación",
+        "Cuatrimestre": "1",
+        "BI": "CB",
+        "CHS": "5",
+        "CHT": "75"
+    },
+    {
+        "Cod_Materia": "12",
+        "Asignatura": "Electrotecnia",
+        "Cuatrimestre": "2",
+        "BI": "TB",
+        "CHS": "6",
+        "CHT": "90"
+    },
+    {
+        "Cod_Materia": "13",
+        "Asignatura": "Sistemas Informáticos",
+        "Cuatrimestre": "2",
+        "BI": "CO",
+        "CHS": "5",
+        "CHT": "75"
+    },
+    {
+        "Cod_Materia": "14",
+        "Asignatura": "Probabilidad y Estadística",
+        "Cuatrimestre": "2",
+        "BI": "CB",
+        "CHS": "6",
+        "CHT": "90"
+    },
+    {
+        "Cod_Materia": "15",
+        "Asignatura": "Estática y Resistencia de Materiales",
+        "Cuatrimestre": "2",
+        "BI": "TB",
+        "CHS": "5",
+        "CHT": "75"
+    },
+    {
+        "Cod_Materia": "TERCER AÑO",
+        "Asignatura": "",
+        "Cuatrimestre": "",
+        "BI": "",
+        "CHS": "",
+        "CHT": ""
+    },
+    {
+        "Cod_Materia": "16",
+        "Asignatura": "Mecánica de los Fluidos",
+        "Cuatrimestre": "1",
+        "BI": "TB",
+        "CHS": "6",
+        "CHT": "90"
+    },
+    {
+        "Cod_Materia": "17",
+        "Asignatura": "Termodinámica",
+        "Cuatrimestre": "1",
+        "BI": "TB",
+        "CHS": "6",
+        "CHT": "90"
+    },
+    {
+        "Cod_Materia": "18",
+        "Asignatura": "Ciencia de los Materiales",
+        "Cuatrimestre": "1",
+        "BI": "TB",
+        "CHS": "7",
+        "CHT": "105"
+    },
+    {
+        "Cod_Materia": "19",
+        "Asignatura": "Análisis Ambiental",
+        "Cuatrimestre": "1",
+        "BI": "TA",
+        "CHS": "5",
+        "CHT": "75"
+    },
+    {
+        "Cod_Materia": "20",
+        "Asignatura": "Comercialización",
+        "Cuatrimestre": "2",
+        "BI": "TA",
+        "CHS": "5",
+        "CHT": "75"
+    },
+    {
+        "Cod_Materia": "21",
+        "Asignatura": "Costos Industriales",
+        "Cuatrimestre": "2",
+        "BI": "TA",
+        "CHS": "3",
+        "CHT": "45"
+    },
+    {
+        "Cod_Materia": "22",
+        "Asignatura": "Comportamiento Organizacional",
+        "Cuatrimestre": "2",
+        "BI": "CO",
+        "CHS": "6",
+        "CHT": "90"
+    },
+    {
+        "Cod_Materia": "23",
+        "Asignatura": "Higiene y Seguridad Industrial",
+        "Cuatrimestre": "2",
+        "BI": "TA",
+        "CHS": "6",
+        "CHT": "90"
+    },
+    {
+        "Cod_Materia": "PRIMER A TERCER AÑO",
+        "Asignatura": "",
+        "Cuatrimestre": "",
+        "BI": "",
+        "CHS": "",
+        "CHT": ""
+    },
+    {
+        "Cod_Materia": "24",
+        "Asignatura": "Formación Humanística y Social",
+        "Cuatrimestre": "2",
+        "BI": "CO",
+        "CHS": "4",
+        "CHT": "60"
+    },
+    {
+        "Cod_Materia": "25",
+        "Asignatura": "Acreditación de Inglés",
+        "Cuatrimestre": "",
+        "BI": "",
+        "CHS": "",
+        "CHT": ""
+    },
+    {
+        "Cod_Materia": "CUARTO AÑO",
+        "Asignatura": "",
+        "Cuatrimestre": "",
+        "BI": "",
+        "CHS": "",
+        "CHT": ""
+    },
+    {
+        "Cod_Materia": "26",
+        "Asignatura": "Gestión de la Calidad",
+        "Cuatrimestre": "1",
+        "BI": "TA",
+        "CHS": "5",
+        "CHT": "75"
+    },
+    {
+        "Cod_Materia": "27",
+        "Asignatura": "Investigación Operativa",
+        "Cuatrimestre": "1",
+        "BI": "TB",
+        "CHS": "6",
+        "CHT": "90"
+    },
+    {
+        "Cod_Materia": "28",
+        "Asignatura": "Electrónica Básica",
+        "Cuatrimestre": "1",
+        "BI": "TB",
+        "CHS": "6",
+        "CHT": "90"
+    },
+    {
+        "Cod_Materia": "29",
+        "Asignatura": "Mecanismos y Elementos de Máquinas",
+        "Cuatrimestre": "1",
+        "BI": "TB",
+        "CHS": "7",
+        "CHT": "105"
+    },
+    {
+        "Cod_Materia": "30",
+        "Asignatura": "Organización Industrial",
+        "Cuatrimestre": "2",
+        "BI": "TA",
+        "CHS": "6",
+        "CHT": "90"
+    },
+    {
+        "Cod_Materia": "31",
+        "Asignatura": "Tecnología de Fabricación",
+        "Cuatrimestre": "2",
+        "BI": "TB",
+        "CHS": "6",
+        "CHT": "90"
+    },
+    {
+        "Cod_Materia": "32",
+        "Asignatura": "Legislación",
+        "Cuatrimestre": "2",
+        "BI": "CO",
+        "CHS": "5",
+        "CHT": "75"
+    },
+    {
+        "Cod_Materia": "33",
+        "Asignatura": "Logística",
+        "Cuatrimestre": "2",
+        "BI": "TA",
+        "CHS": "5",
+        "CHT": "75"
+    },
+    {
+        "Cod_Materia": "QUINTO AÑO",
+        "Asignatura": "",
+        "Cuatrimestre": "",
+        "BI": "",
+        "CHS": "",
+        "CHT": ""
+    },
+    {
+        "Cod_Materia": "34",
+        "Asignatura": "Obtención y procesamiento de datos",
+        "Cuatrimestre": "1",
+        "BI": "TB",
+        "CHS": "5",
+        "CHT": "75"
+    },
+    {
+        "Cod_Materia": "35",
+        "Asignatura": "Gestión del Capital Humano",
+        "Cuatrimestre": "1",
+        "BI": "CO",
+        "CHS": "5",
+        "CHT": "75"
+    },
+    {
+        "Cod_Materia": "36",
+        "Asignatura": "Instalaciones Termomecánicas e Industriales",
+        "Cuatrimestre": "1",
+        "BI": "TB",
+        "CHS": "6",
+        "CHT": "90"
+    },
+    {
+        "Cod_Materia": "37",
+        "Asignatura": "Lean Manufacturing - Manufactura esbelta",
+        "Cuatrimestre": "1",
+        "BI": "TA",
+        "CHS": "5",
+        "CHT": "75"
+    },
+    {
+        "Cod_Materia": "38",
+        "Asignatura": "Evaluación de Proyectos de Inversión",
+        "Cuatrimestre": "2",
+        "BI": "TA",
+        "CHS": "5",
+        "CHT": "75"
+    },
+    {
+        "Cod_Materia": "39",
+        "Asignatura": "Mercadotecnia",
+        "Cuatrimestre": "2",
+        "BI": "TA",
+        "CHS": "5",
+        "CHT": "75"
+    },
+    {
+        "Cod_Materia": "40",
+        "Asignatura": "Administración de Operaciones",
+        "Cuatrimestre": "2",
+        "BI": "TA",
+        "CHS": "5",
+        "CHT": "75"
+    },
+    {
+        "Cod_Materia": "41",
+        "Asignatura": "Práctica Profesional Supervisada",
+        "Cuatrimestre": "A",
+        "BI": "PS",
+        "CHS": "",
+        "CHT": "200"
+    },
+    {
+        "Cod_Materia": "42",
+        "Asignatura": "Trabajo Final",
+        "Cuatrimestre": "A",
+        "BI": "PI",
+        "CHS": "",
+        "CHT": "120"
+    },
+    {
+        "Cod_Materia": "CUARTO A QUINTO AÑO",
+        "Asignatura": "",
+        "Cuatrimestre": "",
+        "BI": "",
+        "CHS": "",
+        "CHT": ""
+    },
+    {
+        "Cod_Materia": "43",
+        "Asignatura": "Ciclo Optativo",
+        "Cuatrimestre": "A",
+        "BI": "OP",
+        "CHS": "",
+        "CHT": "90"
+    },
+    {
+        "Cod_Materia": "HORAS Y CRÉDITOS TOTALES",
+        "Asignatura": "",
+        "Cuatrimestre": "",
+        "BI": "",
+        "CHS": "",
+        "CHT": "3830"
+    }
+]
