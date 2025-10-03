@@ -2,13 +2,9 @@ import json
 import pandas as pd
 from unidecode import unidecode
 
-# Función para normalizar nombres
+# normalizar nombres
 def normalizar(texto):
     return unidecode(texto.strip().lower().replace("\xa0", " "))
-
-# ===============================
-# CARGAR JSONS
-# ===============================
 
 # Materias obligatorias
 with open("materias.json", "r", encoding="utf-8") as f:
@@ -18,11 +14,10 @@ with open("materias.json", "r", encoding="utf-8") as f:
 with open("materias_opt.json", "r", encoding="utf-8") as f:
     materias_opt = json.load(f)
 
-# Si materias_opt es un dict, extraer la lista bajo la clave correcta
 if isinstance(materias_opt, dict):
     materias_opt = materias_opt.get("optativas", [])
 
-# Filtrar filas vacías
+# Filtrar vacías
 materias_opt = [m for m in materias_opt if m.get("Asignatura")]
 
 # Materias info detallada
@@ -32,9 +27,8 @@ with open("materias_info.json", "r", encoding="utf-8") as f:
 # Crear diccionario de info detallada con nombres normalizados
 info_dict = {normalizar(m["nombre"]): m for m in materias_info}
 
-# ===============================
-# FUSIONAR
-# ===============================
+
+# Fusionar datos
 fusionadas = []
 
 # Materias obligatorias
@@ -73,9 +67,7 @@ for m in materias_opt:
         "URL": detalle.get("url", "")
     })
 
-# ===============================
-# GUARDAR RESULTADOS
-# ===============================
+# Guardar en JSON
 with open("materias_fusionadas.json", "w", encoding="utf-8") as f:
     json.dump(fusionadas, f, ensure_ascii=False, indent=2)
 

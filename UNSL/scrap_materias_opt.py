@@ -23,7 +23,7 @@ def procesar_materia(nombre, links):
             href = a["href"]
             break
 
-    # Si no hay 2025, buscar 2024
+    # Si no buscar 2024
     if not href:
         for a in links:
             if a.get_text(strip=True) == "2024":
@@ -57,9 +57,8 @@ def procesar_materia(nombre, links):
     return materia_data
 
 
-# ===========================
-# EJECUCIÓN DEL SCRAPER
-# ===========================
+
+
 
 url_plan = "http://planesestudio.unsl.edu.ar/index.php?action=car_g3&fac=14&car=14008&plan=20/22&version=9&version_id=1276"
 resp = requests.get(url_plan)
@@ -67,12 +66,12 @@ soup = BeautifulSoup(resp.text, "html.parser")
 
 tablas = soup.find_all("table", class_="tablamat")
 
-print("Tablas encontradas:", len(tablas))  # Debug
+print("Tablas encontradas:", len(tablas))  
 
 materias_obligatorias = []
 materias_optativas = []
 
-# --- Tabla de obligatorias (solo la primera) ---
+# materias obligatorias 
 if len(tablas) > 0:
     for fila in tablas[0].find_all("tr")[1:]:
         cols = fila.find_all("td")
@@ -81,7 +80,7 @@ if len(tablas) > 0:
             links = cols[5].find_all("a")
             materias_obligatorias.append(procesar_materia(nombre, links))
 
-# --- Todas las demás tablas se consideran optativas ---
+# optativas 
 for tabla in tablas[1:]:
     for fila in tabla.find_all("tr")[1:]:
         cols = fila.find_all("td")
